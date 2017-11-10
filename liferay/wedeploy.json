@@ -1,0 +1,7 @@
+{
+    "id": "liferay",
+    "env": {
+        "MYSQL_USER": "admin",
+        "MYSQL_PASSWORD": "mypassword123"
+    }
+}
