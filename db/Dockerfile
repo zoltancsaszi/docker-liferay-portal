@@ -1,2 +1,1 @@
 FROM mysql
-EXPOSE 3306/tcp
